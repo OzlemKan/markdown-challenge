@@ -9,7 +9,7 @@ Favorite color | Green
 Favorite Food|Fries
 - [ ] Pineapple on pizza
 
-##Hobbies
+## Hobbies
 * Watching TV shows
   * Breaking Bad
   * The Office
@@ -17,7 +17,7 @@ Favorite Food|Fries
 * Travel
 * Gardening
 
-##A funny Story
+## A funny Story
 
 In Highshool, my chemistry teacher burned the hair of a classmate while doing an experimentation. Fortunately, she wasn't hurt. But the teacher's reaction was really funny because he started screaming like a woman.
 

@@ -24,7 +24,7 @@ In Highshool, my chemistry teacher burned the hair of a classmate while doing an
 ### TLDR
 I don't know
 
-[<<previous](https://github.com/blyssco/markdown-challenge) || Ozlem Kandemir || [next] (https://github.com/Abdoulaye33/markdown-challenge)>>
+[<<previous](https://github.com/blyssco/markdown-challenge) || Ozlem Kandemir || [next>>](https://github.com/Abdoulaye33/markdown-challenge)
 
 
 

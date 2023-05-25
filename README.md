@@ -21,10 +21,10 @@ Favorite Food|Fries
 
 In Highshool, my chemistry teacher burned the hair of a classmate while doing an experimentation. Fortunately, she wasn't hurt. But the teacher's reaction was really funny because he started screaming like a woman.
 
-###TLDR
+### TLDR
 I don't know
 
-[<<previous](https://github.com/blyssco/markdown-challenge) || Ozlem Kandemir || next>>
+[<<previous](https://github.com/blyssco/markdown-challenge) || Ozlem Kandemir || [next] (https://github.com/Abdoulaye33/markdown-challenge)>>
 
 
 
